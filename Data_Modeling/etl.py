@@ -36,7 +36,7 @@ def process_log_file(cur, filepath):
     """
 
     # open log file
-    df = df = pd.read_json(filepath, lines=True)
+    df = df = pd.read_hdf(filepath, lines=True)
 
     # filter by next song action
     df = df[df["page"] == "NextSong"].astype({"ts": "datetime64[ms]"})
