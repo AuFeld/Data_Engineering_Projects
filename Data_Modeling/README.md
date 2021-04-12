@@ -42,11 +42,11 @@ start_time, hour, day, week, month, year, weekday
 
 ## Project Files
 
-```sql_queries.py``` -> contains sql queries for dropping and  creating fact and dimension tables. Also, contains insertion query template.
+```sql_queries.py``` contains sql queries for dropping and  creating fact and dimension tables. Also, contains insertion query template.
 
-```create_tables.py``` -> contains code for setting up database. Running this file creates **sparkifydb** and also creates the fact and dimension tables.
+```create_tables.py``` contains code for setting up database. Running this file creates **sparkifydb** and also creates the fact and dimension tables.
 
-```etl.py``` -> read and process **song_data** and **log_data**
+```etl.py``` will read and process **song_data**
 
 ## Environment 
 Python 3.9 or above
