@@ -12,7 +12,7 @@ def process_song_file(cur, filepath):
     """
 
     # open song file
-    df = pd.DataFrame([pd.read_json(filepath, type="series", 
+    df = pd.DataFrame([pd.read_hdf(filepath, type="series", 
                         covert_dates=False)])
 
     for value in df.values:
