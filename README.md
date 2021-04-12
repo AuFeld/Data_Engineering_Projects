@@ -9,7 +9,7 @@ In this project, I applied Data Modeling with Postgres and built an ETL pipeline
 
 Link: [Data_Modeling_with_Postgres](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Data_Modeling)
 
-## **Project 2: Data Modeling with Cassandra
+## **Project 2: Data Modeling with Cassandra**
 In this project, we applied Data Modeling with Cassandra and constructed an ETL pipeline via Python. A Data Model was constructed based on the queries to address the following requirements:
 1. Get details of a song that was heard on the music app history during a particul session
 2. Get songs played by a user during a particular session on the music app
