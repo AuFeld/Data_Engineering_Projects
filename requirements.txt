@@ -3,3 +3,4 @@ pandas
 os
 glob
 cassandra-driver
+boto3
