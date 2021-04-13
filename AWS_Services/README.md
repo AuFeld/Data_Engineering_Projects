@@ -21,4 +21,4 @@
 
 
 # AWS s3 CLI Cheat Sheet
-![s3 cli cheat sheet](https://github.com/AuFeld/Data_Engineering_Projects/blob/master/AWS_Services/aws-s3-cheat-sheet.png)
+![S3 CLI cheat sheet](/AWS_Services/aws-s3-cheat-sheet.png)
