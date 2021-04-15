@@ -20,9 +20,9 @@ Link: [Data Modeling with Cassandra](https://github.com/AuFeld/Data_Engineering_
 ## Project 3: Data Warehouse on AWS
 In this project, I constructed a Data Warehouse on AWS and engineered an ETL pipeline to extract and transform data stored in the S3 buckets and migrated data to the Data Warehouse hosted on Amazon Redshift. 
 
-Using Redshift IaC script: [Redshift IaC README](https://github.com/AuFeld/Data_Engineering_Projects/blob/master/Redshift_IaC_README.md)
+Using Redshift IaC script: [Redshift IaC README](https://github.com/AuFeld/Data_Engineering_Projects/blob/main/Redshift_IaC_README.md)
 
-Link: [Data Warehouse](https://github.com/AuFeld/Data_Engineering_Projects/tree/master/Data_Warehouse)
+Link: [Data Warehouse](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Data_Warehouse)
 
 ## Project 4: Data Lake
 In this project, I will build a Data Lake on AWS using Spark and AWS EMR cluster. The data lake will be the single source for the analytics platform. Utilizing spark jobs to perform ELT operations that picks data from the S3 landing zone, then transforming and storing data on the S3 processed zone.
