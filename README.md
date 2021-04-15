@@ -2,7 +2,7 @@
 
 Data Modeling, Data Pipelines wtih Airflow, Data Lakes, Infrastructure setup on AWS, Data Warehousing, Pipeline Monitoring, and Pipeline Alerts
 
-![architecture](/images/architecture.png)
+![Architecture](/images/architecture.png)
 
 ## Project 1: Data Modeling with Postgres
 In this project, I applied Data Modeling with Postgres and built an ETL pipeline using Python. A startup wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. Currently, the start up is collecting data in H5 format and the analytics team is particularly interested in understanding what songs users are listening to.
@@ -20,8 +20,8 @@ Link: [Data Modeling with Cassandra](https://github.com/AuFeld/Data_Engineering_
 ## Project 3: Data Warehouse on AWS
 In this project, I constructed a Data Warehouse on AWS and engineered an ETL pipeline to extract and transform data stored in the S3 buckets and migrated data to the Data Warehouse hosted on Amazon Redshift. 
 
-Using Redshift IaC script - [Redshift_IaC_README](https://github.com/AuFeld/Data_Engineering_Projects/blob/master/Redshift_IaC_README.md)
-Link: [Data_Warehouse](https://github.com/AuFeld/Data_Engineering_Projects/tree/master/Data_Warehouse)
+Using Redshift IaC script: [Redshift IaC README](https://github.com/AuFeld/Data_Engineering_Projects/blob/master/Redshift_IaC_README.md)
+Link: [Data Warehouse](https://github.com/AuFeld/Data_Engineering_Projects/tree/master/Data_Warehouse)
 
 ## Project 4: Data Lake
 In this project, I will build a Data Lake on AWS using Spark and AWS EMR cluster. The data lake will be the single source for the analytics platform. Utilizing spark jobs to perform ELT operations that picks data from the S3 landing zone, then transforming and storing data on the S3 processed zone.
