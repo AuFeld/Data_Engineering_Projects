@@ -18,6 +18,6 @@ In this project, I applied Data Modeling with Cassandra and constructed an ETL p
 Link: [Data Modeling with Cassandra](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Data_Modeling_with_Cassandra)
 
 ## **Project 3: Data Warehouse on AWS** 
-In this project, I constructed a Data Warehouse on AWS and engineered an ETL pipeline to extract and transform data stored in S3 buckets and migrated the data to the Data Warehouse hosted on Amazon Redshift. 
+In this project, I constructed a Data Warehouse on AWS and engineered an ETL pipeline to extract and transform data stored in the S3 buckets and migrated data to the Data Warehouse hosted on Amazon Redshift. 
 
 Link: STAY TUNED!
