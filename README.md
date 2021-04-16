@@ -25,6 +25,6 @@ Using Redshift IaC script: [Redshift IaC README](https://github.com/AuFeld/Data_
 Link: [Data Warehouse](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Data_Warehouse)
 
 ## Project 4: Data Lake
-In this project, I will build a Data Lake on AWS using Spark and AWS EMR cluster. The data lake will be the single source for the analytics platform. Utilizing spark jobs to perform ELT operations that picks data from the S3 landing zone, then transforming and storing data on the S3 processed zone.
+In this project, I will build a Data Lake on AWS using Spark and AWS EMR cluster. The data lake will be the single source for the analytics platform. Utilizing spark jobs to perform ELT operations that picks data from the S3 landing zone, then transforming and storing the data to the S3 processed zone.
 
 Link: **COMING SOON!**
