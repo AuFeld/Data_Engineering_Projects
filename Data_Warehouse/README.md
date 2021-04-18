@@ -51,7 +51,7 @@ songplays - records in event data associated with song plays. Columns for the ta
 
 
 ## How to Run
-#### Use [Redshift_Cluster_IaC.py](https://github.com/AuFeld/Data_Engineering_Projects/blob/master/Redshift_Cluster_IaC.py "Redshift_Cluster_IaC.py") from [Data_Engineering_Projects](https://github.com/AuFeld/Data_Engineering_Projects) to launch Redshift Cluster.
+#### Use [Redshift_Cluster_IaC.py](https://github.com/AuFeld/Data_Engineering_Projects/blob/main/Redshift_Cluster_IaC.py "Redshift_Cluster_IaC.py") from [Data_Engineering_Projects](https://github.com/AuFeld/Data_Engineering_Projects) to launch Redshift Cluster.
 
 #### Setup Configurations 
 Setup the dwh.cfg file (File not added in this repository). File format for **dwh.cfg**
