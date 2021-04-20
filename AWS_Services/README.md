@@ -22,3 +22,5 @@
 
 # AWS s3 CLI Cheat Sheet
 ![S3 CLI cheat sheet](/AWS_Services/aws-s3-cheat-sheet.png)
+
+![AWS Big Data Pipeline](images/aws_big_data_pipeline.png)

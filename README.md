@@ -28,3 +28,8 @@ Link: [Data Warehouse](https://github.com/AuFeld/Data_Engineering_Projects/tree/
 In this project, I will build a Data Lake on AWS using Spark and AWS EMR cluster. The data lake will be the single source for the analytics platform. Utilizing spark jobs to perform ELT operations that picks data from the S3 landing zone, then transforming and storing the data to the S3 processed zone.
 
 Link: [Data Lake](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Data_Lake)
+
+## Project 5: Data Pipelines with Airflow
+For this project, a Data Pipeline workflow was created with Apache Airflow. I will schedule ETL jobs to create project related custom plugins and operators to automate the pipeline execution. 
+
+Link: **Coming Soon**

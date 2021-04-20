@@ -6,3 +6,4 @@ cassandra-driver
 boto3
 pyspark
 pyspark[sql]
+apache-airflow
