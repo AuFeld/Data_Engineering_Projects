@@ -2,7 +2,7 @@
 
 Data Modeling, Data Pipelines wtih Airflow, Data Lakes, Infrastructure setup on AWS, Data Warehousing, Pipeline Monitoring, and Pipeline Alerts
 
-![Architecture](/images/architecture.png)
+![Architecture](/images/big_data_pipeline.png)
 
 ## Project 1: Data Modeling with Postgres
 In this project, I applied Data Modeling with Postgres and built an ETL pipeline using Python. A startup wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. Currently, the start up is collecting data in H5 format and the analytics team is particularly interested in understanding what songs users are listening to.
@@ -32,4 +32,4 @@ Link: [Data Lake](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/
 ## Project 5: Data Pipelines with Airflow
 For this project, a Data Pipeline workflow was created with Apache Airflow. I will schedule ETL jobs to create project related custom plugins and operators to automate the pipeline execution. 
 
-Link: **Coming Soon**
+Link: [Airflow Data Pipeline](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Airflow_Data_Pipelines)
