@@ -69,8 +69,11 @@ python create_tables.py
 python etl.py 
 ```
 
+#### Data Model
 
- #### Reference: 
+[DE 1 Data Model](/images/de1_data_model.png)
+
+#### Reference: 
 [Psycopg](http://initd.org/psycopg/docs/)
 
 [PostgreSQL Documentation](https://www.postgresql.org/docs/)
