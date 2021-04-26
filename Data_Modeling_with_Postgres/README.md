@@ -69,7 +69,7 @@ python create_tables.py
 python etl.py 
 ```
 
-#### Data Model
+## Data Model
 
 ![DE 1 Data Model](/images/de1_data_model.png)
 
