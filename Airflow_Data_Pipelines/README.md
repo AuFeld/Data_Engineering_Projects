@@ -1,6 +1,6 @@
 # Airflow Components
 
-![Airflow Components](images/airflow_comp.png)
+![Airflow Components](/images/airflow_comp.png)
 
 **Scheduler** Orchestrates the execution of jobs on a trigger or schedule. The Scheduler chooses how to prioritize the running and execution of tasks within the system.
 
