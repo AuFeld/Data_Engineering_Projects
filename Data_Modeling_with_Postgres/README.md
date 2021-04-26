@@ -71,7 +71,7 @@ python etl.py
 
 #### Data Model
 
-[DE 1 Data Model](/images/de1_data_model.png)
+![DE 1 Data Model](/images/de1_data_model.png)
 
 #### Reference: 
 [Psycopg](http://initd.org/psycopg/docs/)
