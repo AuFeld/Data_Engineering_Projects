@@ -68,9 +68,9 @@ DB_PORT=5439
 ARN=<IAM Role arn>
 
 [S3]
-LOG_DATA='s3://udacity-dend/log_data'
-LOG_JSONPATH='s3://udacity-dend/log_json_path.json'
-SONG_DATA='s3://udacity-dend/song_data'
+LOG_DATA='s3://aufeld-dend/log_data'
+LOG_JSONPATH='s3://aufeld-dend/log_json_path.json'
+SONG_DATA='s3://aufeld-dend/song_data'
 
 ```
 

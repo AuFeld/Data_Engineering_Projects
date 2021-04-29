@@ -29,8 +29,8 @@ Running spark job (Before running job make sure EMR Role have access to s3)
     
 1.  Read data from S3
     
-    -   Song data:  `s3://udacity-dend/song_data`
-    -   Log data:  `s3://udacity-dend/log_data`
+    -   Song data:  `s3://aufeld-dend/song_data`
+    -   Log data:  `s3://aufeld-dend/log_data`
     
     The script reads song_data and load_data from S3.
     
